@@ -16,8 +16,8 @@ I'm passionate about solving problems with data, programming, and building inter
 
 - Working on a **Statistics Project** using R to analyze real-world data.
 - Exploring **Machine Learning** algorithms and their applications in Python.
-- Diving deeper into **database optimization** with **Java** and **SQLite**.
 - Contributing to open-source projects and engaging with the developer community.
+- Working on projects related to app development
 
 ---
 
