@@ -10,7 +10,7 @@ I'm passionate about solving problems with data, programming, and building inter
 
 ![Atiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atiya16384&layout=compact&theme=tokyonight)
 
-![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-C%2B-blue?style=for-the-badge)
+
 
 ---
 
