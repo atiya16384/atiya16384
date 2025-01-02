@@ -6,7 +6,7 @@ I'm passionate about solving problems with data, programming, and building inter
 
 ### 🚀 GitHub Stats
 
-![Atiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiya16384&show_icons=true&theme=tokyonight&hide_rank=true)
+![Atiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ![Atiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atiya16384&layout=compact&theme=tokyonight)
 
