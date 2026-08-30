@@ -1,49 +1,63 @@
-# Hi, I'm Atiya Mahboob 👋
+# Atiya Mahboob
 
-I'm passionate about solving problems with data, programming, and building interesting projects. Here's a glimpse of my GitHub journey, and I'm excited to keep learning and growing!
+Engineer working across machine learning, data infrastructure and numerical computing. MSc Data Science (Distinction, Lancaster); MSc High Performance Computing with Data Science at EPCC, University of Edinburgh.
 
----
-
-### 🚀 GitHub Stats
-
-![Atiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atiya16384&show_icons=true&theme=radical)
-
-![Atiya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atiya16384&layout=compact&theme=tokyonight)
-
-
+Most of what I enjoy sits where models meet the systems that have to run them — making things fast enough, reproducible enough, and validated well enough that someone can act on the output.
 
 ---
 
-### 💡 Current Projects & Learning
+### What I work on
 
-- Working on a **Statistics Project** using R to analyze real-world data.
-- Exploring **Machine Learning** algorithms and their applications in Python.
-- Contributing to open-source projects and engaging with the developer community.
-- Working on projects related to app development.
+- **ML in production** — computer vision (PyTorch, OpenCV, dlib), classification and forecasting models, inference and retraining services
+- **Data infrastructure** — event-driven ingestion pipelines on AWS, cataloguing and query layers, infrastructure as code in Terraform
+- **Numerical computing** — mixed-precision methods and benchmarking in C++ and Python; formal HPC training (MPI, OpenMP, CUDA) from 2026
 
----
+### Currently
 
-### 🎉 Streak Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=atiya16384&theme=tokyonight)
-
----
-
-### 🏆 GitHub Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=atiya16384&theme=onedark)
+- Parallel and GPU programming at EPCC — MPI, OpenMP, CUDA
+- Kubernetes and Helm to production standard
+- MLflow for experiment tracking, Prometheus and Grafana for model observability
 
 ---
 
-### 🌟 A Little More About Me
+### Tools
 
-- **Languages:** Java, Python, R, SQL
-- **Databases:** SQLite, MySQL
-- **Tools:** Git, VS Code, Jupyter Notebooks
-- **Currently Learning:** Advanced Machine Learning, Web Development
+**Languages** Python · C++ · C#/.NET · TypeScript · Java · R · SQL · Bash · MATLAB
+
+**ML** PyTorch · TensorFlow/Keras · scikit-learn · NumPy · pandas · OpenCV
+
+**Infrastructure** AWS · Terraform · Docker · GitLab CI · GitHub Actions · Azure DevOps
+
+**Data** PostgreSQL · SQLite · MongoDB · Firestore · AWS Glue · Athena
+
+**Frontend** React · React Native · Flutter
 
 ---
 
-Thank you for visiting my GitHub profile! I'm always open to learning and collaboration.
+### Selected work
 
+<!--
+Replace these with your four best repos, then pin the same four.
+Each needs a real one-line description of what it does and what it's built with.
+Delete any row you can't fill honestly.
+-->
+
+| Project | What it is |
+|---|---|
+| [repo-name](link) | One line: what problem it solves, what it's built with |
+| [repo-name](link) | One line: what problem it solves, what it's built with |
+| [repo-name](link) | One line: what problem it solves, what it's built with |
+| [repo-name](link) | One line: what problem it solves, what it's built with |
+
+---
+
+### Background
+
+- **BCS Lovelace Colloquium finalist, 2024** — statistical research on algorithmic trading, presented at the University of Liverpool
+- Research internship at **AMD** — mixed-precision iterative refinement benchmarked against AOCL-DA
+- MSc Data Science, Distinction — statistical learning, data mining, distributed AI
+
+---
+
+[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · atiyahussain17170@outlook.co.uk
 
