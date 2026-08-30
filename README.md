@@ -33,7 +33,7 @@ Right now that means computer vision and forecasting models in production, event
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=atiya16384&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1f6feb&icon_color=1f6feb&hide=issues)
+![Stats](https://github-readme-stats.vercel.app/api?username=atiya16384&show_icons=true&hide_border=true&hide=issues&title_color=1f6feb&icon_color=1f6feb)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atiya16384&layout=compact&hide_border=true&langs_count=8&title_color=1f6feb)
 
 ## Toolkit
